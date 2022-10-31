@@ -9,7 +9,7 @@ public class Operation {
 
 	public float sub(float a, float b) {
 		// logic
-		return  (a-b);
+		return  a-b;
 	}
 
 }
