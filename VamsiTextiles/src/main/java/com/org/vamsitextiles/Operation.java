@@ -11,5 +11,9 @@ public class Operation {
 		// logic
 		return  a-b;
 	}
-
+    public float mul(float a, float b)
+    {
+	    //logic
+	  return a*b;
+    }
 }
