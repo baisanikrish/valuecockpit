@@ -12,10 +12,11 @@ public class Operation {
 		return a - b;
 	}
 
-	
-    public float div(float a, float b)
+
+public float multiply(float a, float b) {
+		return a * b;
+	}public float div(float a, float b)
     {
 	    //logic
 	  return a/b;
-    }
-}
+    }}
